@@ -1,0 +1,42 @@
+div {
+    font-family:sans-serif;
+    text-align: center;
+    margin-top: 2%;
+}
+
+h3 {
+    font-size: small;
+}
+
+.button1 {
+    background-color: rgba(35, 0, 235, 0.795);
+    color: white;
+    width: 200px;
+    height: 25px;
+    margin: 15px;
+    border-radius: 5px;
+    text-transform: capitalize;
+}
+
+#intro {
+    text-transform: capitalize;
+}
+
+/* HMTL SECTION */
+
+
+#resumeimg {
+height: 400px;
+width: 300px;
+}
+
+
+/* CSS SECTION */
+
+.CSSCOMPARE {
+    height: 300px;
+}
+ 
+.sqrimg {
+    height: 400px;
+}
